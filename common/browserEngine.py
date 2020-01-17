@@ -4,15 +4,17 @@ from selenium import webdriver
 from config.read_config import ReadConfig
 from common import logger
 
-class BrowserEngine(object):
+class BrowserEngine():
     read_config = ReadConfig()
     browser_type = read_config.get_browser_type('chrome')
 
-    def __init__(self, driver):
-        self.driver = driver
+    def __init__(self):
         self.logger = logger.Logger().print_log()
 
     def open_browser(self):
+        """
+        :return:
+        """
         self.logger.info("使用%s浏览器", self.browser_type)
         self.logger.info("打开浏览器")
 
@@ -29,3 +31,10 @@ class BrowserEngine(object):
         driver.implicitly_wait(10)
         return driver
 
+    def quit_browser(self, driver):
+        """
+        Quit webdriver
+        :return:
+        """
+        self.logger.info("Quit the browser.")
+        driver.quit()
