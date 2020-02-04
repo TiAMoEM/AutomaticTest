@@ -10,7 +10,7 @@ class Logger:
         logger.setLevel(logging.DEBUG)
         log_time = time.strftime("%Y%m%d%H%M%S", time.localtime(time.time()))
         formatter = logging.Formatter('%(asctime)s-[%(filename)s][line:%(lineno)d][%(levelname)s] %(message)s')
-        log_path = os.path.abspath('') + '\\' + 'logs' + '\\' + log_time + '\\'
+        log_path = os.path.abspath('') + '/' + 'logs' + '/' + log_time + '/'
         if not os.path.exists(log_path):
             os.makedirs(log_path)
         log_file = log_path + log_time + '.log'

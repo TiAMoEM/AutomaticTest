@@ -8,7 +8,7 @@ class ReadConfig:
     def __init__(self):
         self.config = configparser.ConfigParser()
         # self.config.read(os.path.join(os.getcwd(), "config.ini"))
-        self.config_path = os.path.split(os.path.abspath(__file__))[0] + '\\' + "config.ini"
+        self.config_path = os.path.split(os.path.abspath(__file__))[0] + '/' + "config.ini"
         # 去除BOM，Windows下编码问题
         self.config.readfp(codecs.open(self.config_path, "r", "utf-8-sig"))
 
