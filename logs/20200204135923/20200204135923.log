@@ -1,0 +1,32 @@
+2020-02-04 13:59:23,307-[logger.py][line:37][INFO] ***************************Begin to test testcase: 11111111111 ***************************
+2020-02-04 13:59:23,307-[start.py][line:24][INFO] =======================================Begin Test=======================================
+2020-02-04 13:59:23,307-[start.py][line:25][INFO] 测试URL: https://www.kanzhun.com/
+2020-02-04 13:59:23,335-[logger.py][line:37][INFO] ***************************Begin to test testcase: PageLookUp ***************************
+2020-02-04 13:59:23,335-[logger.py][line:37][INFO] ***************************Begin to test testcase: PageLookUp ***************************
+2020-02-04 13:59:23,335-[test_pageLookUp.py][line:12][INFO] start test
+2020-02-04 13:59:23,335-[test_pageLookUp.py][line:12][INFO] start test
+2020-02-04 13:59:23,335-[test_pageLookUp.py][line:12][INFO] start test
+2020-02-04 13:59:23,336-[browserEngine.py][line:18][INFO] 使用Chrome浏览器
+2020-02-04 13:59:23,336-[browserEngine.py][line:18][INFO] 使用Chrome浏览器
+2020-02-04 13:59:23,336-[browserEngine.py][line:18][INFO] 使用Chrome浏览器
+2020-02-04 13:59:23,336-[browserEngine.py][line:18][INFO] 使用Chrome浏览器
+2020-02-04 13:59:23,336-[browserEngine.py][line:19][INFO] 打开浏览器
+2020-02-04 13:59:23,336-[browserEngine.py][line:19][INFO] 打开浏览器
+2020-02-04 13:59:23,336-[browserEngine.py][line:19][INFO] 打开浏览器
+2020-02-04 13:59:23,336-[browserEngine.py][line:19][INFO] 打开浏览器
+2020-02-04 13:59:25,246-[browserEngine.py][line:28][INFO] 最大化浏览器
+2020-02-04 13:59:25,246-[browserEngine.py][line:28][INFO] 最大化浏览器
+2020-02-04 13:59:25,246-[browserEngine.py][line:28][INFO] 最大化浏览器
+2020-02-04 13:59:25,246-[browserEngine.py][line:28][INFO] 最大化浏览器
+2020-02-04 13:59:25,388-[browserEngine.py][line:30][INFO] 设置隐式时间等待
+2020-02-04 13:59:25,388-[browserEngine.py][line:30][INFO] 设置隐式时间等待
+2020-02-04 13:59:25,388-[browserEngine.py][line:30][INFO] 设置隐式时间等待
+2020-02-04 13:59:25,388-[browserEngine.py][line:30][INFO] 设置隐式时间等待
+2020-02-04 13:59:28,861-[logger.py][line:45][INFO] ***************************End to test testcase: PageLookUp ***************************
+2020-02-04 13:59:28,861-[logger.py][line:45][INFO] ***************************End to test testcase: PageLookUp ***************************
+2020-02-04 13:59:28,861-[logger.py][line:45][INFO] ***************************End to test testcase: PageLookUp ***************************
+2020-02-04 13:59:28,861-[logger.py][line:45][INFO] ***************************End to test testcase: PageLookUp ***************************
+2020-02-04 13:59:28,862-[browserEngine.py][line:39][INFO] Quit the browser.
+2020-02-04 13:59:28,862-[browserEngine.py][line:39][INFO] Quit the browser.
+2020-02-04 13:59:28,862-[browserEngine.py][line:39][INFO] Quit the browser.
+2020-02-04 13:59:28,862-[browserEngine.py][line:39][INFO] Quit the browser.

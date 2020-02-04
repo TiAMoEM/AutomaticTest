@@ -2,10 +2,17 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="be5dcbaf-2787-48d7-b149-e60cd2aa5f3d" name="Default" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/AutomaticTest.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/AutomaticTest.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/common/browserEngine.py" beforeDir="false" afterPath="$PROJECT_DIR$/common/browserEngine.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/common/logger.py" beforeDir="false" afterPath="$PROJECT_DIR$/common/logger.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/config/read_config.py" beforeDir="false" afterPath="$PROJECT_DIR$/config/read_config.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/start.py" beforeDir="false" afterPath="$PROJECT_DIR$/start.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/testCases/.pytest_cache/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/testCases/.pytest_cache/v/cache/lastfailed" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/testCases/.pytest_cache/v/cache/nodeids" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/testCases/logs/20200111012651/20200111012651.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/testCases/logs/20200111012702/20200111012702.log" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -37,12 +44,12 @@
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../xiaoshuo" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
-    <property name="settings.editor.selected.configurable" value="preferences.keymap" />
+    <property name="settings.editor.selected.configurable" value="editor.preferences.fonts.default" />
   </component>
-  <component name="RunManager" selected="Python tests.pytest for test_pageLookUp.TestPageLook.test_pageLookup01_mainPage">
+  <component name="RunManager" selected="Python.start">
     <configuration name="read_config" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="AutomaticTest" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -144,8 +151,8 @@
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Python tests.pytest for test_pageLookUp.TestPageLook.test_pageLookup01_mainPage" />
         <item itemvalue="Python.start" />
+        <item itemvalue="Python tests.pytest for test_pageLookUp.TestPageLook.test_pageLookup01_mainPage" />
         <item itemvalue="Python tests.pytest for test_pageLookUp.TestPageLook" />
         <item itemvalue="Python tests.pytest in test_pageLookUp.py" />
         <item itemvalue="Python.read_config" />
@@ -176,6 +183,7 @@
       <updated>1577331564440</updated>
       <workItem from="1578381627518" duration="4436000" />
       <workItem from="1578474421352" duration="13388000" />
+      <workItem from="1580781981859" duration="2204000" />
     </task>
     <servers />
   </component>
@@ -187,6 +195,10 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="765" y="236" key="#com.intellij.ide.util.MemberChooser/0.0.1920.1040@0.0.1920.1040" timestamp="1578382607862" />
+    <state x="326" y="24" key="CommitChangelistDialog2" timestamp="1580796147396">
+      <screen x="0" y="23" width="1440" height="801" />
+    </state>
+    <state x="326" y="24" key="CommitChangelistDialog2/0.23.1440.801@0.23.1440.801" timestamp="1580796147396" />
     <state width="664" height="466" key="DebuggerActiveHint" timestamp="1578645244554">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
@@ -195,22 +207,26 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="732" y="325" key="FileChooserDialogImpl/0.0.1920.1040@0.0.1920.1040" timestamp="1578477533268" />
-    <state width="1877" height="281" key="GridCell.Tab.0.bottom" timestamp="1578735929224">
-      <screen x="0" y="0" width="1920" height="1040" />
+    <state width="1398" height="205" key="GridCell.Tab.0.bottom" timestamp="1580795963127">
+      <screen x="0" y="23" width="1440" height="801" />
     </state>
     <state width="1877" height="281" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1578735929224" />
-    <state width="1877" height="281" key="GridCell.Tab.0.center" timestamp="1578735929224">
-      <screen x="0" y="0" width="1920" height="1040" />
+    <state width="1398" height="205" key="GridCell.Tab.0.bottom/0.23.1440.801@0.23.1440.801" timestamp="1580795963127" />
+    <state width="1398" height="205" key="GridCell.Tab.0.center" timestamp="1580795963126">
+      <screen x="0" y="23" width="1440" height="801" />
     </state>
     <state width="1877" height="281" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1578735929224" />
-    <state width="1877" height="281" key="GridCell.Tab.0.left" timestamp="1578735929224">
-      <screen x="0" y="0" width="1920" height="1040" />
+    <state width="1398" height="205" key="GridCell.Tab.0.center/0.23.1440.801@0.23.1440.801" timestamp="1580795963126" />
+    <state width="1398" height="205" key="GridCell.Tab.0.left" timestamp="1580795963126">
+      <screen x="0" y="23" width="1440" height="801" />
     </state>
     <state width="1877" height="281" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1578735929224" />
-    <state width="1877" height="281" key="GridCell.Tab.0.right" timestamp="1578735929224">
-      <screen x="0" y="0" width="1920" height="1040" />
+    <state width="1398" height="205" key="GridCell.Tab.0.left/0.23.1440.801@0.23.1440.801" timestamp="1580795963126" />
+    <state width="1398" height="205" key="GridCell.Tab.0.right" timestamp="1580795963127">
+      <screen x="0" y="23" width="1440" height="801" />
     </state>
     <state width="1877" height="281" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1578735929224" />
+    <state width="1398" height="205" key="GridCell.Tab.0.right/0.23.1440.801@0.23.1440.801" timestamp="1580795963127" />
     <state width="1877" height="348" key="GridCell.Tab.1.bottom" timestamp="1578645331387">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
@@ -227,17 +243,22 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state width="1877" height="348" key="GridCell.Tab.1.right/0.0.1920.1040@0.0.1920.1040" timestamp="1578645331387" />
-    <state x="461" y="150" key="SettingsEditor" timestamp="1578382704317">
-      <screen x="0" y="0" width="1920" height="1040" />
+    <state x="346" y="102" key="SettingsEditor" timestamp="1580793436053">
+      <screen x="0" y="23" width="1440" height="801" />
     </state>
     <state x="461" y="150" key="SettingsEditor/0.0.1920.1040@0.0.1920.1040" timestamp="1578382704317" />
+    <state x="346" y="102" key="SettingsEditor/0.23.1440.801@0.23.1440.801" timestamp="1580793436053" />
     <state x="640" y="344" key="com.intellij.ide.util.TipDialog" timestamp="1578474437947">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="640" y="344" key="com.intellij.ide.util.TipDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1578474437947" />
+    <state x="385" y="148" width="670" height="676" key="search.everywhere.popup" timestamp="1580795848631">
+      <screen x="0" y="23" width="1440" height="801" />
+    </state>
+    <state x="385" y="148" width="670" height="676" key="search.everywhere.popup/0.23.1440.801@0.23.1440.801" timestamp="1580795848631" />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
-    <SUITE FILE_PATH="coverage/AutomaticTest$start.coverage" NAME="start Coverage Results" MODIFIED="1578660229091" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/AutomaticTest$start.coverage" NAME="start Coverage Results" MODIFIED="1580795963118" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/AutomaticTest$pytest_for_test_pageLookUp_TestPageLook.coverage" NAME="pytest for test_pageLookUp.TestPageLook Coverage Results" MODIFIED="1578645223222" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/testCases" />
     <SUITE FILE_PATH="coverage/AutomaticTest$pytest_for_test_pageLookUp_TestPageLook_test_pageLookup01_mainPage.coverage" NAME="pytest for test_pageLookUp.TestPageLook.test_pageLookup01_mainPage Coverage Results" MODIFIED="1578677210460" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/testCases" />
     <SUITE FILE_PATH="coverage/AutomaticTest$pytest_in_test_pageLookUp_py.coverage" NAME="pytest in test_pageLookUp.py Coverage Results" MODIFIED="1578644827859" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/testCases" />
